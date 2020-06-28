@@ -1,6 +1,6 @@
 '''
 Date: 11-09-2019
-Authar: Amit
+Author: Amit
 Purpose: TO find different hydraulic properties using Bernoulli equation 
 
 Note: Define variable first as string then in if statement convert
